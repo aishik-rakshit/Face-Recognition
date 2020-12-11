@@ -23,5 +23,7 @@ facenet_keras model can be downloaded from : https://drive.google.com/drive/fold
 Link:https://pypi.org/project/face-recognition/
 
 Extra functions added to simplify training and testing.
-FPS counter integrated into code to display fps on top of window
+
+FPS counter integrated into code to display fps on top of window.
+
 Must have dlib and opencv installed to run the code
