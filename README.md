@@ -1,5 +1,5 @@
 # Face-Recognition
-1 Face Recognition using Facenet-Keras and MTCNN
+# 1 Face Recognition using Facenet-Keras and MTCNN
 
 For the webcam implementaion of the code a folder needs to be created in the working directory called "myfaces" with the pictures of the different people to be recognized 
 in seperate folders within it.
@@ -18,7 +18,7 @@ tuft face detection database on canon d3100:http://tdface.ece.tufts.edu/download
 facenet_keras model can be downloaded from : https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
 
 
-2 Face recognition using python face recognition module
+ # 2 Face recognition using python face recognition module
 
 Link:https://pypi.org/project/face-recognition/
 
